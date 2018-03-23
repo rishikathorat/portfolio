@@ -5065,7 +5065,12 @@ a.badge:focus {
        -o-transition: border .2s ease-in-out;
           transition: border .2s ease-in-out;
 }
-    
+.prathibha {
+  width: 578px;
+  height: 430px;
+  margin-left: 5px;
+
+}
 .container main {
   text-align: center;
 }
