@@ -5868,6 +5868,10 @@ button.list-group-item-danger.active:focus {
   padding: 0;
   overflow: hidden;
 }
+.resumedoc {
+  width: 1000px;
+  height: 1150px;
+}
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe,
 .embed-responsive embed,
@@ -6025,6 +6029,9 @@ button.close {
 .modal-footer .btn + .btn {
   margin-bottom: 0;
   margin-left: 5px;
+}
+.projectmanipulation {
+  height: 305px;
 }
 .modal-footer .btn-group .btn + .btn {
   margin-left: -1px;
