@@ -4994,17 +4994,17 @@ a.badge:focus {
 }
 .jumbotrona {
   color: white;
-  background-color: #990000;
+  background-color: #bfd1f5;
 }
 .jumbotronb {
   color: white;
-  background-color:#B8860B;
+  background-color:#FFFFFF;
 }
 .hover:hover {
-  border:5px solid #B8860B;
+  border:5px solid #FFFFFF;
 }
 .ecolution {
-  color:  #0099ff;
+  color:  #0099ff; 
 }
 .ecolution a{
   color:  #0099ff;
