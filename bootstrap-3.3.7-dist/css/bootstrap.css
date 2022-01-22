@@ -1096,19 +1096,19 @@ body {
   background-color: #fff;
 }
 .home {
-  background-color: #bfd1f5;
+  background-color: #E8D3B9;
 }
 .homea {
-  color: #bfd1f5;
+  color: #E8D3B9;
 }
 .homea a {
-  color: #bfd1f5;
+  color: #E8D3B9;
 }
 .aboutme {
-   background-color: #bfd1f5;
+   background-color: #E8D3B9;
 }
 .aboutmea {
-  color: #bfd1f5;;
+  color: #E8D3B9;;
 }
 input,
 button,
@@ -1124,7 +1124,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #E8D3B9;
   text-decoration: underline;
 }
 a:focus {
