@@ -1639,8 +1639,10 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+}
+.homepageaboutme {
   line-height: 150%;
-  font-size:14px;
+  font-size:16px;
   font-family:times; 
   padding-left:40px;
 }
